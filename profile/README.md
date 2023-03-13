@@ -3,7 +3,7 @@
 
 ### Members of team 🙋‍
 - 박승진 (2018203073) - https://github.com/aad3365
-- 김동은 (0000000000) - https://github.com/howl201
+- 김동은 (2019203091) - https://github.com/howl201
 <!--
 
 **Here are some ideas to get you started:**
