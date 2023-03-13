@@ -1,7 +1,7 @@
 ## Team2400 public organization 👋
 > Hi there! this page is simple introduction to our organization!
 
-### Team constitution 🙋‍
+### Members of team 🙋‍
 - 박승진 (2018203073) - https://github.com/aad3365
 - 김동은 (0000000000) - https://github.com/howl201
 <!--
