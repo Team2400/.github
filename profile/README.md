@@ -4,6 +4,8 @@
 ### Members of team 🙋‍
 - 박승진 (2018203073) - https://github.com/aad3365
 - 김동은 (2019203091) - https://github.com/howl201
+- 이해린 (2021203020) - https://github.com/rin00000
+- 박현수 (2021203048) - https://github.com/HyunsooPark0516
 <!--
 
 **Here are some ideas to get you started:**
